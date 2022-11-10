@@ -1,0 +1,33 @@
+.prdct {
+    width: 300px;
+    margin: 15px;
+    align-items: block;
+    padding: 10px;
+    display: inline-block;
+}
+
+.addD {
+    background-color: white;
+    border: 2px solid rgb(57, 200, 200);
+    color: rgb(57, 200, 200);
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    margin-bottom: 2px;
+}
+
+.addD:hover {
+    background-color: rgb(57, 200, 200);
+    color: white;
+}
+
+img{
+    width: 200px;
+}
